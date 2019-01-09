@@ -1,0 +1,9 @@
+format: yamanifest
+git_commit_id: null
+version: 1.0
+---
+work/mitgcmuv:
+  fullpath: /home/502/aph502/v45_short/mitgcm/build/tutorial_barotropic_gyre/mitgcmuv
+  hashes:
+    binhash: e754baa211131b4df249146eb24128c6
+    md5: 3e85e01350a3e86932781c884ec9c369

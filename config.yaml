@@ -1,0 +1,23 @@
+queue: express
+project: x77
+walltime: 0:30:00
+ncpus: 4
+mem: 4GB
+jobname: lala1
+# collate_walltime: 06:00:00
+# collate: 10GB
+# postscript: /home/157/ixr157/scripts/jobs/run_extract
+
+
+runspersub: 5
+
+model: mitgcm
+shortpath: /short/v45
+exe: /home/502/aph502/v45_short/mitgcm/build/tutorial_barotropic_gyre/mitgcmuv
+input: tutorial_barotropic_gyre/payu_inputs
+
+collate: False
+
+manifest:
+     ignore: 
+            - '.*'
