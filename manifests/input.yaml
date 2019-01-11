@@ -632,6 +632,11 @@ work/hFacW.002.002.data:
   hashes:
     binhash: 6725ee4facf10ef8a824838aa6ee1fb7
     md5: 8045dfb56f91c9aaa67a49621a67217f
+work/lalala:
+  fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/payu_inputs/lalala
+  hashes:
+    binhash: 3c15fc9b3f0d1bcf05382d15e93aadfd
+    md5: d41d8cd98f00b204e9800998ecf8427e
 work/pickup.ckptA.001.001.data:
   fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/payu_inputs/pickup.ckptA.001.001.data
   hashes:
