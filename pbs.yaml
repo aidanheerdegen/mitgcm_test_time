@@ -1,7 +1,86 @@
-PAYU_CURRENT_RUN: 25
-PAYU_FINISH_TIME: '2019-01-18T15:24:20.265115'
+Checkpoint: u
+Error_Path: raijin3:/home/502/aph502/payu/mitgcm/test/lala1.e4829620
+Hold_Types: n
+Job_Name: lala1
+Job_Owner: aph502@raijin3
+Join_Path: n
+Keep_Files: n
+LD_LIBRARY_PATH: /g/data3/hh5/public/apps/miniconda3/envs/analysis27-18.10/lib
+Mail_Points: a
+Output_Path: raijin3:/home/502/aph502/payu/mitgcm/test/lala1.o4829620
+PAYU_CURRENT_RUN: 26
+PAYU_FINISH_TIME: '2019-01-18T15:30:48.625861'
 PAYU_JOB_STATUS: 0
 PAYU_N_RUNS: 1
-PAYU_PATH: /home/502/aph502/.local/bin/payu
-PAYU_START_TIME: '2019-01-18T15:24:15.650050'
-PAYU_WALLTIME: 4.615065 s
+PAYU_PATH: /home/502/aph502/.local/bin
+PAYU_START_TIME: '2019-01-18T15:30:39.814975'
+PAYU_WALLTIME: 8.810886 s
+PBS_JOBFS: /jobfs/local/4829620.r-man2
+PBS_NCI_FS_GDATA1: '0'
+PBS_NCI_FS_GDATA1A: '0'
+PBS_NCI_FS_GDATA1B: '0'
+PBS_NCI_FS_GDATA2: '0'
+PBS_NCI_FS_GDATA3: '0'
+PBS_NCI_HT: '0'
+PBS_NCI_IMAGE: ''
+PBS_NCI_JOBFS_LOCAL: 104857600b
+PBS_NCI_WD: '1'
+PBS_NCPUS: '4'
+PBS_NGPUS: '0'
+PBS_O_HOME: /home/502/aph502
+PBS_O_HOST: raijin3
+PBS_O_LANG: C
+PBS_O_LOGNAME: aph502
+PBS_O_MAIL: /var/spool/mail/aph502
+PBS_O_PATH: /g/data3/hh5/public/apps/miniconda3/envs/analysis27-18.10/bin:/projects/v45/cmstools/bin:/apps/git/2.9.5/bin:/apps/nco/4.7.7/bin:/apps/python/2.7.11/bin:/opt/bin:/bin:/usr/bin:/opt/pbs/default/bin:.:/home/502/aph502/bin:/home/502/aph502/v45_short/spack/bin:/apps/ncview/2.1.2/bin:/home/502/aph502/bin:/home/502/aph502/v45_short/spack/bin:/g/data3/hh5/public/apps/miniconda3/bin
+PBS_O_QUEUE: express
+PBS_O_SHELL: /bin/bash
+PBS_O_SYSTEM: Linux
+PBS_O_WORKDIR: /home/502/aph502/payu/mitgcm/test
+PBS_VMEM: '4294967296'
+PROJECT: x77
+PYTHONPATH: /projects/v45/python
+Priority: '0'
+Rerunable: 'False'
+Resource_List.HT: '0'
+Resource_List.jobfs: 104857600b
+Resource_List.jobfs_local: 104857600b
+Resource_List.jobprio: '100017.625'
+Resource_List.mem: 4294967296b
+Resource_List.mpiprocs: '4'
+Resource_List.ncpus: '4'
+Resource_List.nodect: '1'
+Resource_List.place: free
+Resource_List.queue_charge_rate: '3'
+Resource_List.select: 1:ncpus=4:mpiprocs=4:mem=4294967296:job_tags=express-6h:jobfs_local=104857600
+Resource_List.walltime: 00:30:00
+Resource_List.wd: '1'
+Submit_arguments: -q express -P x77 -l walltime=0:30:00 -l ncpus=4 -l mem=4GB -N lala1
+  -l wd -j n -v PYTHONPATH=/projects/v45/python,PAYU_PATH=/home/502/aph502/.local/bin,LD_LIBRARY_PATH=/g/data3/hh5/public/apps/miniconda3/envs/analysis27-18.10/lib
+  -- /g/data3/hh5/public/apps/miniconda3/envs/analysis27-18.10/bin/python /home/502/aph502/.local/bin/payu-run
+argument_list: <jsdl-hpcpa:Argument>/home/502/aph502/.local/bin/payu-run</jsdl-hpcpa:Argument>
+comment: Job run at Fri Jan 18 at 15:30 on (r39:ncpus=4:mem=4194304kb:jobfs_local=102400kb)
+ctime: Fri Jan 18 15:25:24 2019
+eligible_time: 00:00:00
+etime: Fri Jan 18 15:25:24 2019
+exec_host: r39/6*4
+exec_vnode: (r39:ncpus=4:mem=4194304kb:jobfs_local=102400kb)
+executable: <jsdl-hpcpa:Executable>/g/data3/hh5/public/apps/miniconda3/envs/analysis27-18.10/bin/python</jsdl-hpcpa:Executable>
+group_list: x77
+job_state: R
+jobdir: /home/502/aph502
+mtime: Fri Jan 18 15:30:39 2019
+project: x77
+qtime: Fri Jan 18 15:25:24 2019
+queue: express-def
+resources_used.cpupercent: '0'
+resources_used.cput: 00:00:00
+resources_used.mem: 0kb
+resources_used.ncpus: '4'
+resources_used.vmem: 0kb
+resources_used.walltime: 00:00:00
+run_count: '1'
+server: r-man2
+session_id: '28718'
+stime: Fri Jan 18 15:30:39 2019
+substate: '42'

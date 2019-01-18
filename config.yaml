@@ -9,7 +9,7 @@ jobname: lala1
 # postscript: /home/157/ixr157/scripts/jobs/run_extract
 
 
-runspersub: 5
+# runspersub: 5
 
 model: mitgcm
 shortpath: /short/v45
