@@ -18,6 +18,8 @@ input: tutorial_barotropic_gyre/payu_inputs
 
 collate: False
 
+archive: False
+
 manifest:
      ignore: 
             - '.*'
