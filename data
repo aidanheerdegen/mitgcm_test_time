@@ -28,7 +28,7 @@
  &PARM03
  niter0=0
  deltaT=2400.00
- ntimesteps=10,
+ ntimesteps=5,
  deltaTtracer=1200.0,
  abEps=0.1,
  pChkptFreq=2592000.0,
