@@ -1,3 +1,48 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/mitgcm.res.yaml:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/mitgcm.res.yaml
+  hashes:
+    binhash: d040058709785ed2298a7d66a406e390
+    md5: 8801a25e85d7d0b0e2fcefda33085611
+work/pickup.0000000010.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/pickup.0000000010.001.001.data
+  hashes:
+    binhash: f36b2e99ae2b193002635fa164653cea
+    md5: 9ceeb9503fa459a961a81dbd70a3365d
+work/pickup.0000000010.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/pickup.0000000010.001.001.meta
+  hashes:
+    binhash: 801296980ad313267fcf0124ecabf377
+    md5: 91baf5c7f668d41500251cf235c593bc
+work/pickup.0000000010.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/pickup.0000000010.001.002.data
+  hashes:
+    binhash: 197be23920ca035c2e26696c00cb3b18
+    md5: 73d45a3ee98503fc6b41fb53cc101736
+work/pickup.0000000010.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/pickup.0000000010.001.002.meta
+  hashes:
+    binhash: 26abe4cf0de0889501fb265685f3e0e2
+    md5: 237f77e72c037c2cfdff180abbcbafda
+work/pickup.0000000010.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/pickup.0000000010.002.001.data
+  hashes:
+    binhash: 3dd1c092f409d0747ad2a6abb7c24d4a
+    md5: a8e9a81b4e129d88a6a1eb64ddf7b7e2
+work/pickup.0000000010.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/pickup.0000000010.002.001.meta
+  hashes:
+    binhash: ab1967b938cba2c93f0809aa0f7970ed
+    md5: 47527d3bc455ce27e994e52a196057de
+work/pickup.0000000010.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/pickup.0000000010.002.002.data
+  hashes:
+    binhash: ab3fc5938349bd53f6f9414def38f405
+    md5: 3a592098ece4c9bf5afa2879e610afed
+work/pickup.0000000010.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test/restart000/pickup.0000000010.002.002.meta
+  hashes:
+    binhash: d4808b95c512bee93279be10651ce0fb
+    md5: cb50ada69403fc08a3042956126885d0
