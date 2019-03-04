@@ -31,7 +31,7 @@
 ! endTime=12000.0,
  deltaTmom=1200.0,
  deltaT=1200.0,
- ntimesteps=20,
+ ntimesteps=13,
  deltaTtracer=1200.0,
  abEps=0.1,
  pChkptFreq=2592000.0,
