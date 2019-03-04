@@ -28,7 +28,7 @@
  &PARM03
  startTime=0,
 !endTime=311040000,
- endTime=12000.0,
+! endTime=12000.0,
  deltaTmom=2400.0,
  deltaT=2400.0,
  ntimesteps=20,
