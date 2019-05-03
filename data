@@ -28,8 +28,8 @@
  &PARM03
  startTime=0,
  endTime=12000.0,
- deltaTmom=600.0,
- deltaT=600.0,
+ deltaTmom=1200.0,
+ deltaT=1200.0,
 ! ntimesteps=7,
  deltaTtracer=600.0,
  abEps=0.1,
