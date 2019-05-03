@@ -27,7 +27,7 @@
 ! Time stepping parameters
  &PARM03
  startTime=0,
- endTime=4000.0,
+ endTime=12000.0,
  deltaTmom=400.0,
  deltaT=1200.0,
 ! ntimesteps=7,
