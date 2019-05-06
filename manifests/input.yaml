@@ -634,23 +634,23 @@ work/hFacW.002.002.data:
 work/pickup.ckptA.001.001.data:
   fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/payu_inputs/pickup.ckptA.001.001.data
   hashes:
-    binhash: 597f36db72fadb1f1f6dbeeaa7bd53b2
-    md5: ca7b62f3d99b1d6c2e6c39cd4f66d803
+    binhash: 3b2f644ebdd75fcd4806e31324e4fd9b
+    md5: c4c2aeabd5b28cdae26876e72faf86ed
 work/pickup.ckptA.001.002.data:
   fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/payu_inputs/pickup.ckptA.001.002.data
   hashes:
-    binhash: 18e19f8c723da5de8278d3eebea2e03a
-    md5: 9465a3b40b45e6f94c6c789ea421a2bf
+    binhash: ea478587beada3e332b5ec7d1677fb89
+    md5: 2ea5c08c6b7117f5858f157f12b847c8
 work/pickup.ckptA.002.001.data:
   fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/payu_inputs/pickup.ckptA.002.001.data
   hashes:
-    binhash: d90ad161933059d4ada8e3d90e9136cc
-    md5: bd6f23a00ef785d29ea2eec0bf6ce393
+    binhash: 550a413a1b3682bda7e0158b60eb1f0a
+    md5: 1f82da2e7ee62c3e9fce87d5eebdf776
 work/pickup.ckptA.002.002.data:
   fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/payu_inputs/pickup.ckptA.002.002.data
   hashes:
-    binhash: 4e89d8e84258acb24ecd4637f905181d
-    md5: eb87656f339b60f69b233efba600be7d
+    binhash: e532fb10a9ef93c9d03350805c4329e1
+    md5: f6e1405c8aafd26d06ae8f9370fa77fe
 work/topog.box:
   fullpath: /short/v45/aph502/mitgcm/input/tutorial_barotropic_gyre/payu_inputs/topog.box
   hashes:
