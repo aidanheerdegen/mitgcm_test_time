@@ -27,11 +27,11 @@
 ! Time stepping parameters
  &PARM03
  startTime=0,
- endTime=12000.0,
- deltaTmom=12000.0,
- deltaT=800.0,
+ endTime=24000.0,
+ deltaTmom=1200.0,
+ deltaT=1200.0,
 ! ntimesteps=7,
- deltaTtracer=800.0,
+ deltaTtracer=1200.0,
 ! diagfreq=100.0,
  abEps=0.1,
  pChkptFreq=12000.0,

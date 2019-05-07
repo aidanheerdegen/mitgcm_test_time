@@ -2,47 +2,47 @@ format: yamanifest
 version: 1.0
 ---
 work/mitgcm.res.yaml:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/mitgcm.res.yaml
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/mitgcm.res.yaml
   hashes:
-    binhash: 3388ca2e8cfa90878358314d28fce1bb
-    md5: cdc31d1ef434124dcc17abf6db7865ea
-work/pickup.0000000045.001.001.data:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/pickup.0000000045.001.001.data
+    binhash: c8a341d99b3713c8a0cbed210f2d4b17
+    md5: 8801a25e85d7d0b0e2fcefda33085611
+work/pickup.0000000020.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.001.data
   hashes:
-    binhash: 711e42b5351b459d2241d335dc1d0641
-    md5: 476aed07afde7345243d506c626baf29
-work/pickup.0000000045.001.001.meta:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/pickup.0000000045.001.001.meta
+    binhash: 0b66511d6ef9831ef165eee71df67a42
+    md5: 999322e2e1dbf0bd3bf99cb5da5dccbd
+work/pickup.0000000020.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.001.meta
   hashes:
-    binhash: d6859f53d275293404e86c3e121d1a64
-    md5: 4e29744ae1635f7be439d0efb46e2b1f
-work/pickup.0000000045.001.002.data:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/pickup.0000000045.001.002.data
+    binhash: 46184ba7b09277b74350061ea31dbde6
+    md5: 12ed88c110a24081e1b80cda6ddf0174
+work/pickup.0000000020.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.002.data
   hashes:
-    binhash: 6198f8b1f73f9f2171dd558b06da50af
-    md5: 32506e7025f49195e4f7ff44b395a953
-work/pickup.0000000045.001.002.meta:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/pickup.0000000045.001.002.meta
+    binhash: 90bc4e17978018fa7b39ed723a7ad9ad
+    md5: 9ac3abad875ca6bb35adcb26b66220e8
+work/pickup.0000000020.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.002.meta
   hashes:
-    binhash: 3787e8d3d8621a366bb7465a623c5ea0
-    md5: 4e3defcf06a2f84b43a337553d7bfaa2
-work/pickup.0000000045.002.001.data:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/pickup.0000000045.002.001.data
+    binhash: 2ed24d349e39805f23d3757010277192
+    md5: c9fd6959c4807ba31c2c27241cbcace2
+work/pickup.0000000020.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.001.data
   hashes:
-    binhash: 49b024f7c360fe9c4870ae6f2be6d656
-    md5: b85444c1a881dbfe0275e8979299a102
-work/pickup.0000000045.002.001.meta:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/pickup.0000000045.002.001.meta
+    binhash: 7fe945f01a8ab9355934e25a0e544aa6
+    md5: 999243948fb98721474caf50baf9871d
+work/pickup.0000000020.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.001.meta
   hashes:
-    binhash: 10e4fef00ef1d173fc2ba4b4ce4497d8
-    md5: cde97bc1784bef8bb075bc9762d6931a
-work/pickup.0000000045.002.002.data:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/pickup.0000000045.002.002.data
+    binhash: 9c965ca0a33d0dc8964717b5c259ce21
+    md5: 63aac62e70bf71e54b40b63311ade27c
+work/pickup.0000000020.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.002.data
   hashes:
-    binhash: 3a65f32506d8c03e1b769a4c2bc2d4dc
-    md5: 8380aa5eb3812de1b44022eeb964a8a0
-work/pickup.0000000045.002.002.meta:
-  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart002/pickup.0000000045.002.002.meta
+    binhash: c9e9f51f6365d27c8bffc4f7794b3a92
+    md5: a213d30a3ccd9732272c7a1686b4c8d1
+work/pickup.0000000020.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.002.meta
   hashes:
-    binhash: b1ead975907e7d380e3892d282ebeb15
-    md5: 28d4f68fd40631cf790767f7bc46c46c
+    binhash: 284a585a1c829edf28d44964933137d4
+    md5: 1c2a4c42123496bace041de13ab38225
