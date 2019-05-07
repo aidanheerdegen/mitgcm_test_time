@@ -1,3 +1,48 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/mitgcm.res.yaml:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/mitgcm.res.yaml
+  hashes:
+    binhash: c8a341d99b3713c8a0cbed210f2d4b17
+    md5: 8801a25e85d7d0b0e2fcefda33085611
+work/pickup.0000000020.001.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.001.data
+  hashes:
+    binhash: c0cf88b9693da29eb9779032bd41e1cf
+    md5: ad4d1996e8a6664c3d7c0909510e594f
+work/pickup.0000000020.001.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.001.meta
+  hashes:
+    binhash: e192c7e9763d76b522e839169f582479
+    md5: e132d9fb6d4e9824bcc9013082b66a77
+work/pickup.0000000020.001.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.002.data
+  hashes:
+    binhash: 9427917b7ab5a9f34c9fba42e088650a
+    md5: 661c7a7e7380d60a89aac7f6c99e6f08
+work/pickup.0000000020.001.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.002.meta
+  hashes:
+    binhash: 7713883b8994a6eab99f7460d64716da
+    md5: c320c907653ebb1717c680b12aa08c6f
+work/pickup.0000000020.002.001.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.001.data
+  hashes:
+    binhash: dcfe62e18dcb01314728438bb4e55d2c
+    md5: 065b96cfd01970ef18c6d85e62057453
+work/pickup.0000000020.002.001.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.001.meta
+  hashes:
+    binhash: 5c49e7b9a5f2b5b3594e1c4c206e06fc
+    md5: b895143feae25fbe112c58ce2fd4050b
+work/pickup.0000000020.002.002.data:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.002.data
+  hashes:
+    binhash: 6a93ce0e8b14611fd64b4a8c003e2e85
+    md5: b0eb5b1b0f3c033982ad11273e989b98
+work/pickup.0000000020.002.002.meta:
+  fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.002.meta
+  hashes:
+    binhash: 171941983b8864741f6cc3ddcf21f39b
+    md5: af65392fb60cd4b8d587919b4cb4472e
