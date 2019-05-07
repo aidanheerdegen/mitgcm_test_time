@@ -9,40 +9,40 @@ work/mitgcm.res.yaml:
 work/pickup.0000000020.001.001.data:
   fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.001.data
   hashes:
-    binhash: 9ecc5d6becf4f459a982b51dcf39cfaf
-    md5: 2ca726f1d0e955060d2020b36854c3d7
+    binhash: 0b66511d6ef9831ef165eee71df67a42
+    md5: 999322e2e1dbf0bd3bf99cb5da5dccbd
 work/pickup.0000000020.001.001.meta:
   fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.001.meta
   hashes:
-    binhash: d4b0ee99a5a42efa63e3e36b503bc253
+    binhash: 46184ba7b09277b74350061ea31dbde6
     md5: 12ed88c110a24081e1b80cda6ddf0174
 work/pickup.0000000020.001.002.data:
   fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.002.data
   hashes:
-    binhash: c6cd1e240bb2f24403d789652c0426b6
-    md5: 07f9c35368ab4439812f39608c4c5b97
+    binhash: 90bc4e17978018fa7b39ed723a7ad9ad
+    md5: 9ac3abad875ca6bb35adcb26b66220e8
 work/pickup.0000000020.001.002.meta:
   fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.001.002.meta
   hashes:
-    binhash: a59018fb674098ed87e3cc4ef075ccf9
+    binhash: 2ed24d349e39805f23d3757010277192
     md5: c9fd6959c4807ba31c2c27241cbcace2
 work/pickup.0000000020.002.001.data:
   fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.001.data
   hashes:
-    binhash: 1b22b83fb8d81fb32fe2601b6bcf9954
-    md5: 79cfd3854ed7dc96048f66a5327e7235
+    binhash: 7fe945f01a8ab9355934e25a0e544aa6
+    md5: 999243948fb98721474caf50baf9871d
 work/pickup.0000000020.002.001.meta:
   fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.001.meta
   hashes:
-    binhash: 0cb5ee68b74f62b9bb51238be1230f70
+    binhash: 9c965ca0a33d0dc8964717b5c259ce21
     md5: 63aac62e70bf71e54b40b63311ade27c
 work/pickup.0000000020.002.002.data:
   fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.002.data
   hashes:
-    binhash: bb3ae4b65de270a34e2d508d3c3ad0a2
-    md5: 6e9e76980e94f2cf90490600d33bcf5f
+    binhash: c9e9f51f6365d27c8bffc4f7794b3a92
+    md5: a213d30a3ccd9732272c7a1686b4c8d1
 work/pickup.0000000020.002.002.meta:
   fullpath: /short/v45/aph502/mitgcm/archive/test_time/restart000/pickup.0000000020.002.002.meta
   hashes:
-    binhash: d9c798acf2b76c6f04e58b721e879981
+    binhash: 284a585a1c829edf28d44964933137d4
     md5: 1c2a4c42123496bace041de13ab38225
