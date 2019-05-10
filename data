@@ -27,10 +27,10 @@
 ! Time stepping parameters
  &PARM03
  startTime=0,
- deltaTmom=200.0,
- deltaT=200.0,
- ntimesteps=10,
- deltaTtracer=200.0,
+ deltaTmom=400.0,
+ deltaT=400.0,
+ ntimesteps=11,
+ deltaTtracer=400.0,
 ! diagfreq=100.0,
  abEps=0.1,
  ! dumpFreq=600.0,
